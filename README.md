@@ -2,7 +2,7 @@
 # odin-recipes
 
 # Recipes
-# Practicing basic HTML, linking, and GIT in XUbuntu and VSCode
+# Practicing basic HTML, linking, and GIT in Ubuntu and VSCode
 
 
 
